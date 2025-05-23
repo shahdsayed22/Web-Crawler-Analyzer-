@@ -1,0 +1,9 @@
+1. Activate your virtual environment
+venv\Scripts\activate
+
+2. Run main.py (to crawl a website + save screenshot)
+python main.py https://booking.com --js  (with screenshot)
+python main.py https://booking.com  
+
+3. Run app.py with Streamlit (to open the dashboard)
+streamlit run dashboard/app.py

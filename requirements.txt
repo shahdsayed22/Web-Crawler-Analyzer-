@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.2
+playwright==1.39.0
+requests==2.31.0
+streamlit==1.29.0
