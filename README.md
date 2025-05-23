@@ -17,4 +17,4 @@ This project is a web crawler that analyzes a given website for crawlability, ex
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/web-crawler-analyzer.git
+   (https://github.com/shahdsayed22/Web-Crawler-Analyzer-.git)
